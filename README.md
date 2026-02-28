@@ -56,20 +56,6 @@ AI-powered healthcare assistant for rural India.
 ---
 
 ## 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/YOURUSERNAME
+LinkedIn:(https://www.linkedin.com/in/gahana-khandelwal-60595031a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 GitHub: https://github.com/Gahana123![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devstar123&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devstar123&layout=compact)
-
----
-
-## 🔗 Connect with Me
-
-[![Linkedin](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Through+linkedin)](https://git.io/typing-svg)
