@@ -1,32 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Gahana Khandelwal
 
-<!--
-**khandelwalgahana8-code/Khandelwalgahana8-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student (Kerala)  
+🎓 B.Sc Data Science & AI (Diploma Level) – IIT Madras (Online)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# 👋 Hi there! I'm GahanaKhandelwal
-
-🚀 I’m a developer passionate about learning and building tech.
+💡 Passionate about building real-world applications and AI-driven solutions.  
+🚀 Currently focused on Android Development, Java, and Data Science.
 
 ---
 
-## 🛠️ My Skills
+## 💻 Technical Skills
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+### 👩‍💻 Programming
+- Java
+- Python
+- C
+- SQL
+
+### 📱 App Development
+- Android (Java + XML)
+- SQLite Database
+- CRUD Operations
+- API Integration (Gemini API)
+
+### 📊 Core Concepts
+- Data Structures
+- Object-Oriented Programming
+- DBMS
+- Linear Algebra
+- Machine Learning Foundations
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **AI Resume ATS Analyzer**  
+Offline Android application with SQLite integration.
+
+🔹 **Java To-Do List App**  
+Task manager with structured database storage.
+
+🔹 **Gemini API Joke Generator**  
+Dynamic content generation using API calls and JSON parsing.
+
+🔹 **MediMate (HackArena 2025 Concept)**  
+AI-powered healthcare assistant for rural India.
+
+---
+
+## 📈 Goals for 2026
+- Contribute to open-source
+- Build 3+ production-ready Android apps
+- Strengthen DSA & problem-solving
+- Secure a high-quality internship
+
+---
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/YOURUSERNAME
+GitHub: https://github.com/Gahana123![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ---
